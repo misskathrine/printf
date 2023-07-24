@@ -3,7 +3,7 @@
 /**
  * get_precision - prog to calculate the precision for printing
  *
- * by Jide-Kazeem and Femi
+ * by Abdulmalik and Femi
  *
  * @format: Formatted string in which to print the arguments
  * @i: List of args to be printed.
