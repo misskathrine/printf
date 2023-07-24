@@ -3,7 +3,7 @@
 /************************* WRITE HANDLE *************************/
 /**
  * handle_write_char - func to print a string
- * by Femi and Jide
+ * by Femi and Abdulmalik
  * @c: char types.
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags.
