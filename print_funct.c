@@ -2,7 +2,7 @@
 
 /**
  * print_char - This prog prints a char
- * project by Femi and Jide
+ * project by Femi and Abdulmalik
  * @types: List a of arguments
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags
