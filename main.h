@@ -21,7 +21,7 @@
 /**
  * struct fmt - Struct op
  *
- * by Femi and Jide
+ * by Femi and Abdulmalik
  *
  * @fmt: The format.
  *
