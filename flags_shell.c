@@ -3,7 +3,7 @@
 /**
  * get_flags - prog calculates active flags
  *
- * by Fem and Majid
+ * by Fem and Abdulmalik
  *
  * @format: Formatted string in which to print the arguments
  *
