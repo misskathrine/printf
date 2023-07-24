@@ -3,7 +3,7 @@
 /**
  * is_printable - func evaluates if a char is printable
  *
- * by Femi and Jide-Kazeem
+ * by Femi and Abdulmalik
  *
  * @c: Char to be evaluated.
  *
