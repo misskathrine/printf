@@ -3,7 +3,7 @@
 /**
  * get_size - prog to Calculate the size to cast the argument
  *
- * project by Femi and Jide
+ * project by Femi and Abdulmalik
  *
  * @format: Formatted string in which to print the arguments
  *
