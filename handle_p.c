@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * handle_print - func to prints an argument based on its type
- * by Femi and Majid
+ * by Femi and Abdulmalik
  * @fmt: Formatted string in which to print the arguments.
  * @list: List of arguments to be printed.
  * @ind: ind.
